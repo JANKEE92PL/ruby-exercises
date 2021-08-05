@@ -39,7 +39,7 @@ These exercises are designed to compliment the [Ruby Basic lessons](https://www.
 
 #### 10.Predicate Enumerables
 
-- [ ] Predicate Enumerable Exercises
+- [x] Predicate Enumerable Exercises
 
 #### 11.Nested Collections
 
